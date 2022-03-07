@@ -6,6 +6,15 @@
 Meu nom é David, sou estudante de programação web (front-end) e amo assistir anime, series e jogar no final de semana.
 No momento, estou visando reforçar a base da programação web: html, css e javascript. Nos tempos livres, me aventuro criando projetos com react, node e mysql/mongodb 🙂.
 
+
+### Contatos:
+
+<div>
+  <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:davidemaildetrabalho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/david-silva-187aa1233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 ## Aqui vai algumas Tecnologias que tenho conhecimento:
 
 <div>
@@ -30,14 +39,9 @@ No momento, estou visando reforçar a base da programação web: html, css e jav
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
 </div>
 
+
 [![Github States](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-silva-187aa1233/)](https://www.linkedin.com/in/david-silva-187aa1233/)
 
 
-### About me
-I'm a technology lover and a lover of technology and currently studying to become a great professional
 
-## Sup, How's goin
-### My name is David, and nickname is daxzbr sure be welcomed to my Github profile
 
