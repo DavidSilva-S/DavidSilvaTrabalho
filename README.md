@@ -1,6 +1,6 @@
 
-<h1 align="center">
-   # Opa, Tudo Jóia?! seja bem vindo ao meu Perfil
+<h1 align="center" weight="bold">
+   <p> Opa, Tudo Jóia?! seja bem vindo ao meu Perfil </p>
 </h1>
 
 <p align="center">
