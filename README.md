@@ -1,5 +1,7 @@
-<body style="background: green">
-# Opa, Tudo Jóia?! seja bem vindo ao meu Perfil
+
+<h1 align="center">
+   # Opa, Tudo Jóia?! seja bem vindo ao meu Perfil
+</h1>
 
 <p align="center">
    <img src="https://c.tenor.com/8asevgOzT54AAAAd/castlevaniabeardwulf.gif" alt="castlevania" width="500">
@@ -54,5 +56,4 @@ No momento, estou visando reforçar a base da programação web: html, css e jav
 </div>
 
 
-</body>
 
