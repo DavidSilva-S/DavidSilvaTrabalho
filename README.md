@@ -1,9 +1,10 @@
 # Opa, Tudo Jóia?! seja bem vindo ao meu Perfil
 
-<span>
- <i>https://c.tenor.com/8asevgOzT54AAAAd/castlevaniabeardwulf.gif</i>
-</span>
-
+<div style="margin: auto">
+ <span>
+  <i>https://c.tenor.com/8asevgOzT54AAAAd/castlevaniabeardwulf.gif</i>
+ </span>
+</div>
 ### Sobre mim
 
 Meu nom é David, sou estudante de programação web (front-end) e amo assistir anime, series e jogar no final de semana.
