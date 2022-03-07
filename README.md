@@ -1,6 +1,6 @@
 # Opa, Tudo Jóia?! seja bem vindo ao meu Perfil
 
-![image](https://user-images.githubusercontent.com/97611386/157055827-b139917d-6ce1-4cc9-9d25-5dea511d7df5.png)
+https://tenor.com/bDoaZ.gif
 
 ### Sobre mim
 
