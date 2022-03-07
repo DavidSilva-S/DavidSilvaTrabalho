@@ -41,7 +41,7 @@ No momento, estou visando reforçar a base da programação web: html, css e jav
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
 </div>
 
-
+## Gr
 <div>
   <a href="https://github.com/DavidSilvaTrabalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSilvaTrabalho&layout=compact&langs_count=7&theme=dracula"/>
