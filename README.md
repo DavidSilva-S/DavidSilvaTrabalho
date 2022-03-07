@@ -1,4 +1,4 @@
-<span style="background: green">
+<body style="background: green">
 # Opa, Tudo Jóia?! seja bem vindo ao meu Perfil
 
 <p align="center">
@@ -54,5 +54,5 @@ No momento, estou visando reforçar a base da programação web: html, css e jav
 </div>
 
 
-</span>
+</body>
 
