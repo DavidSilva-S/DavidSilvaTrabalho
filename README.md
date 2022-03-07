@@ -13,7 +13,7 @@ Meu nom é David, sou estudante de programação web (front-end) e amo assistir 
 No momento, estou visando reforçar a base da programação web: html, css e javascript. Nos tempos livres, me aventuro criando projetos com react, node e mysql/mongodb 🙂.
 
 
-### Contatos:
+### Contato
 
 <div>
   <a href="https://instagram.com/daxzvai" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -21,7 +21,7 @@ No momento, estou visando reforçar a base da programação web: html, css e jav
   <a href="https://www.linkedin.com/in/david-silva-187aa1233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## Tecnogias
+## Tecnologias
 
 #### Aqui vai algumas Tecnologias que tenho conhecimento:
 
