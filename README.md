@@ -1,7 +1,7 @@
 
-<h1 align="center">
+<center>
    <p> Opa, Tudo Jóia?! seja bem vindo ao meu Perfil </p>
-</h1>
+</center>
 
 <p align="center">
    <img src="https://c.tenor.com/8asevgOzT54AAAAd/castlevaniabeardwulf.gif" alt="castlevania" width="500">
