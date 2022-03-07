@@ -1,8 +1,8 @@
 # Opa, Tudo Jóia?! seja bem vindo ao meu Perfil
 
-### Meu nom é David, sou estudante de programação web (front-end) amo assistir anime, series e jogar nos finas de semana.
+#### Meu nom é David, sou estudante de programação web (front-end) amo assistir anime, series e jogar nos finas de semana.
 
-### No momento, estou visando reforçar a base da programação web: html, css e javascript. Nos tempos livres, me aventuro criando projetos com react, node e mysql/mongodb 🙂.
+#### No momento, estou visando reforçar a base da programação web: html, css e javascript. Nos tempos livres, me aventuro criando projetos com react, node e mysql/mongodb 🙂.
 
 ## Aqui vai algumas Tecnologias que tenho conhecimento:
 <img width="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
