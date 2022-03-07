@@ -1,7 +1,7 @@
 # Opa, Tudo Jóia?! seja bem vindo ao meu Perfil
 
 
-### sobre mim
+### Sobre mim
 
 Meu nom é David, sou estudante de programação web (front-end) e amo assistir anime, series e jogar no final de semana.
 No momento, estou visando reforçar a base da programação web: html, css e javascript. Nos tempos livres, me aventuro criando projetos com react, node e mysql/mongodb 🙂.
@@ -15,7 +15,9 @@ No momento, estou visando reforçar a base da programação web: html, css e jav
   <a href="https://www.linkedin.com/in/david-silva-187aa1233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## Aqui vai algumas Tecnologias que tenho conhecimento:
+## Tecnogias
+
+#### Aqui vai algumas Tecnologias que tenho conhecimento:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
@@ -23,14 +25,14 @@ No momento, estou visando reforçar a base da programação web: html, css e jav
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 </div>
 
-## Tecnologias que estou estudando:
+#### Tecnologias que estou estudando:
 
 <div> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
 </div>
 
-## Tecnologias que me aventuro nas horas vagas:
+#### Tecnologias que me aventuro nas horas vagas:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
