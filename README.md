@@ -1,7 +1,7 @@
 # Opa, Tudo Jóia?! seja bem vindo ao meu Perfil
 
 <p style="aling:center">
-!["castlevania"](https://c.tenor.com/8asevgOzT54AAAAd/castlevaniabeardwulf.gif)
+   <img src="https://c.tenor.com/8asevgOzT54AAAAd/castlevaniabeardwulf.gif" alt="castlevania" width="200">
 </p>
 
 ### Sobre mim
