@@ -1,7 +1,7 @@
 # Opa, Tudo Jóia?! seja bem vindo ao meu Perfil
 
 <p align="center">
-   <img src="https://c.tenor.com/8asevgOzT54AAAAd/castlevaniabeardwulf.gif" alt="castlevania" width="200">
+   <img src="https://c.tenor.com/8asevgOzT54AAAAd/castlevaniabeardwulf.gif" alt="castlevania" width="1200">
 </p>
 
 ### Sobre mim
