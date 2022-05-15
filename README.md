@@ -1,6 +1,6 @@
 
 <h1 align="center">
-   ### Opa, tudo jóia?! seja bem vindo ao meu perfil ###
+   ### Opa, tudo jóia?! Seja bem vindo ao meu perfil ###
 </h1>
 
 <p align="center">
