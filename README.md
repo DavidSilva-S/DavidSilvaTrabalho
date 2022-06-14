@@ -9,9 +9,8 @@
 
 ### Sobre mim
 
-Meu nom é David, sou estudante de programação web (front-end) e amo assistir anime, series e jogar no final de semana.
-No momento, estou visando reforçar a base da programação web: html, css e javascript. Nos tempos livres, me aventuro criando projetos com react, node e mysql/mongodb 🙂.
-
+Me chamo David, sou estudante de programação web (front-end), amo assistir anime, series e jogar no final de semana.
+No momento, estou visando reforçar a base da programação web: html, css e javascript. Nos tempos livres me aventuro criando projetos com vue, node e mysql/mongodb 🙂.
 
 ### Contato
 
@@ -35,7 +34,8 @@ No momento, estou visando reforçar a base da programação web: html, css e jav
 
 <div> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40" />
 </div>
 
 #### Tecnologias que me aventuro nas horas vagas:
@@ -44,6 +44,7 @@ No momento, estou visando reforçar a base da programação web: html, css e jav
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40" />
 </div>
 
 ####
