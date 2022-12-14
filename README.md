@@ -9,8 +9,8 @@
 
 ### Sobre mim
 
-Me chamo David, sou estudante de programação web (front-end), amo assistir anime, series e jogar no final de semana.
-No momento, estou visando reforçar a base da programação web: html, css e javascript. Nos tempos livres me aventuro criando projetos com react, node e mysql/mongodb 🙂.
+Me chamo David, sou estudante de programação web (front-end).
+No momento, estou visando reforçar a base da programação web: html, css e javascript. Nos tempos livres me aventuro criando projetos em react, node e mysql/mongodb 🙂.
 
 ### Contato
 
