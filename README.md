@@ -16,12 +16,12 @@ Hello, mate. My name is David and in my spare time I dabble in programming, work
 <div>
   <a href="https://instagram.com/daxzvai" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:davidemaildetrabalho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-## Tecnologias
+</div>
 
 #### Technologies I’m interested in in my spare time:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-original-wordmark.svg" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" />     
 </div>
 
 ####
