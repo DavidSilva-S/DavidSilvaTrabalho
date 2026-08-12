@@ -22,6 +22,7 @@ Hello, mate. My name is David and in my spare time I dabble in programming, work
 
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" />     
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
 
 ####
