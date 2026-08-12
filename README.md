@@ -11,7 +11,7 @@
 
 Hello, mate. My name is David and in my spare time I dabble in programming, working on personal projects. Please feel free to send me a message or contribute.
 
-### Contato
+### Contact
 
 <div>
   <a href="https://instagram.com/daxzvai" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,11 +26,6 @@ Hello, mate. My name is David and in my spare time I dabble in programming, work
 
 ####
 
-<div>
-  <a href="https://github.com/DavidSilvaTrabalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSilvaTrabalho&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidSilvaTrabalho&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
-</div>
 
 
 
