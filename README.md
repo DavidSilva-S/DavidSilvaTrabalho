@@ -9,7 +9,7 @@
 
 ### About me
 
-Hello, mate. My name is David and in my spare time I dabble in programming, working on personal projects and learn new languages. Please feel free to send me a message or contribute.
+Hello, mate. My name is David and in my spare time I dabble in programming, work on personal projects, learn new languages and have fun with Linux. Please feel free to send me a message or contribute.
 
 ### Contact
 
